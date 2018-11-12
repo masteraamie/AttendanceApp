@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="OnBarcode.AndroidBarcode.OnBarcode.AndroidBarcode">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OnBarcode.AndroidBarcode/OnBarcode.AndroidBarcode.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

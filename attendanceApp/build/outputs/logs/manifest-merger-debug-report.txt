@@ -1,0 +1,277 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:2:1-106:12
+MERGED from [:zBarScannerActivity] E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\9e72cfc0b5741a98d39dd2d05c832e39\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2f73d6e77b4eb799f1169217cf852bc9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\3ae65ec7e40afee6b3dcd55071e96a9b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\1d8dd0d98e8b576d7a579067ee20b82b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\a1ee4e450c9d3ec4895287c31de4b679\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\0da850daa503018c14499cf7951e9efc\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\f4533a3c6fc4aae44df17dd1e997125e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\04b34289656b4a737706ac2c6bee272d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\bc3e59fb9e88470cbb02799b96d549e1\AndroidManifest.xml:17:1-31:12
+INJECTED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:2:1-106:12
+	package
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml
+		INJECTED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml
+		INJECTED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml
+		INJECTED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [:zBarScannerActivity] E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:zBarScannerActivity] E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\9e72cfc0b5741a98d39dd2d05c832e39\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\9e72cfc0b5741a98d39dd2d05c832e39\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2f73d6e77b4eb799f1169217cf852bc9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2f73d6e77b4eb799f1169217cf852bc9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\3ae65ec7e40afee6b3dcd55071e96a9b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\3ae65ec7e40afee6b3dcd55071e96a9b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\1d8dd0d98e8b576d7a579067ee20b82b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\1d8dd0d98e8b576d7a579067ee20b82b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\a1ee4e450c9d3ec4895287c31de4b679\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\a1ee4e450c9d3ec4895287c31de4b679\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\0da850daa503018c14499cf7951e9efc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\0da850daa503018c14499cf7951e9efc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\f4533a3c6fc4aae44df17dd1e997125e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\f4533a3c6fc4aae44df17dd1e997125e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\04b34289656b4a737706ac2c6bee272d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\04b34289656b4a737706ac2c6bee272d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\bc3e59fb9e88470cbb02799b96d549e1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\bc3e59fb9e88470cbb02799b96d549e1\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\9e72cfc0b5741a98d39dd2d05c832e39\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml
+		INJECTED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml
+		INJECTED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.INTERNET
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.CAMERA
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:14:5-65
+MERGED from [:zBarScannerActivity] E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-65
+MERGED from [:zBarScannerActivity] E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:14:22-62
+application
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:16:5-104:19
+MERGED from [:zBarScannerActivity] E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:5-20:19
+MERGED from [:zBarScannerActivity] E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:5-20:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\9e72cfc0b5741a98d39dd2d05c832e39\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\9e72cfc0b5741a98d39dd2d05c832e39\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2f73d6e77b4eb799f1169217cf852bc9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2f73d6e77b4eb799f1169217cf852bc9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\3ae65ec7e40afee6b3dcd55071e96a9b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\3ae65ec7e40afee6b3dcd55071e96a9b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\1d8dd0d98e8b576d7a579067ee20b82b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\1d8dd0d98e8b576d7a579067ee20b82b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\a1ee4e450c9d3ec4895287c31de4b679\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\a1ee4e450c9d3ec4895287c31de4b679\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\0da850daa503018c14499cf7951e9efc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\0da850daa503018c14499cf7951e9efc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\f4533a3c6fc4aae44df17dd1e997125e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\f4533a3c6fc4aae44df17dd1e997125e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\04b34289656b4a737706ac2c6bee272d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\04b34289656b4a737706ac2c6bee272d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\bc3e59fb9e88470cbb02799b96d549e1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\bc3e59fb9e88470cbb02799b96d549e1\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:20:9-40
+activity#com.master.attendanceapp.MainActivity
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:21:9-25:20
+	android:screenOrientation
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:24:13-49
+	android:label
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:22:13-41
+activity#com.dm.zbar.android.scanner.ZBarScannerActivity
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:26:9-29:53
+MERGED from [:zBarScannerActivity] E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:9-19:53
+MERGED from [:zBarScannerActivity] E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:9-19:53
+	android:screenOrientation
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:29:13-50
+	android:label
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:27:13-75
+activity#com.master.attendanceapp.Signup
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:30:9-33:20
+	android:label
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:31:13-35
+activity#com.master.attendanceapp.SignupSuccess
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:34:9-38:20
+	android:screenOrientation
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:37:13-49
+	android:label
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:35:13-42
+activity#com.master.attendanceapp.Attendance
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:39:9-43:20
+	android:label
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:41:13-45
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:40:13-39
+activity#com.master.attendanceapp.Login
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:46:13-45
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:45:13-34
+activity#com.master.attendanceapp.CreateSuccess
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:50:13-45
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:49:13-42
+activity#com.master.attendanceapp.CreateUser
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:52:9-55:20
+	android:label
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:54:13-45
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:53:13-39
+activity#com.master.attendanceapp.SplashScreen
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:56:9-63:20
+	android:label
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:58:13-45
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:57:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:59:13-62:29
+action#android.intent.action.MAIN
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:60:17-69
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:60:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:61:17-77
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:61:27-74
+activity#com.master.attendanceapp.AttendanceMenu
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:64:9-68:20
+	android:screenOrientation
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:67:13-49
+	android:label
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:66:13-45
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:65:13-43
+activity#com.master.attendanceapp.CheckAttendanceByID
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:69:9-73:20
+	android:screenOrientation
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:72:13-50
+	android:label
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:71:13-45
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:70:13-48
+activity#com.master.attendanceapp.CheckAttendanceBySem
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:74:9-78:20
+	android:screenOrientation
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:77:13-50
+	android:label
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:76:13-45
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:75:13-49
+activity#com.master.attendanceapp.CheckShortageByID
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:79:9-83:20
+	android:screenOrientation
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:82:13-50
+	android:label
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:81:13-45
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:80:13-46
+activity#com.master.attendanceapp.CheckShortageBySem
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:84:9-88:20
+	android:screenOrientation
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:87:13-50
+	android:label
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:86:13-45
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:85:13-47
+activity#com.master.attendanceapp.GetAttendance
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:89:9-92:20
+	android:label
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:91:13-45
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:90:13-42
+activity#com.master.attendanceapp.GetShortage
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:93:9-96:20
+	android:label
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:95:13-45
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:94:13-40
+activity#com.master.attendanceapp.ManageClasses
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:97:9-100:20
+	android:label
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:99:13-45
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:98:13-42
+activity#com.master.attendanceapp.AboutUs
+ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:101:9-103:20
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\attendanceApp\src\main\AndroidManifest.xml:102:13-36
+uses-feature#android.hardware.camera
+ADDED from [:zBarScannerActivity] E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-60
+	android:name
+		ADDED from [:zBarScannerActivity] E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:19-57
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\9e72cfc0b5741a98d39dd2d05c832e39\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2f73d6e77b4eb799f1169217cf852bc9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\2f73d6e77b4eb799f1169217cf852bc9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\3ae65ec7e40afee6b3dcd55071e96a9b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\3ae65ec7e40afee6b3dcd55071e96a9b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\1d8dd0d98e8b576d7a579067ee20b82b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\1d8dd0d98e8b576d7a579067ee20b82b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\a1ee4e450c9d3ec4895287c31de4b679\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\a1ee4e450c9d3ec4895287c31de4b679\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\0da850daa503018c14499cf7951e9efc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\0da850daa503018c14499cf7951e9efc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\f4533a3c6fc4aae44df17dd1e997125e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\f4533a3c6fc4aae44df17dd1e997125e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\04b34289656b4a737706ac2c6bee272d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\04b34289656b4a737706ac2c6bee272d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\bc3e59fb9e88470cbb02799b96d549e1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\bc3e59fb9e88470cbb02799b96d549e1\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\9e72cfc0b5741a98d39dd2d05c832e39\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Master Aamir\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\9e72cfc0b5741a98d39dd2d05c832e39\AndroidManifest.xml:27:13-51

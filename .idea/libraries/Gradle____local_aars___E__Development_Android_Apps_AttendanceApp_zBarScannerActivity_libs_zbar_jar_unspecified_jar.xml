@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:E.\Development\Android Apps\AttendanceApp\zBarScannerActivity\libs\zbar.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/zBarScannerActivity/libs/zbar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

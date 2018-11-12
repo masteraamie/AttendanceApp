@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AttendanceApp.iml" filepath="$PROJECT_DIR$/AttendanceApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OnBarcode.AndroidBarcode/OnBarcode.AndroidBarcode.iml" filepath="$PROJECT_DIR$/OnBarcode.AndroidBarcode/OnBarcode.AndroidBarcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/attendanceApp/attendanceApp.iml" filepath="$PROJECT_DIR$/attendanceApp/attendanceApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zBarScannerActivity/zBarScannerActivity.iml" filepath="$PROJECT_DIR$/zBarScannerActivity/zBarScannerActivity.iml" />
+    </modules>
+  </component>
+</project>

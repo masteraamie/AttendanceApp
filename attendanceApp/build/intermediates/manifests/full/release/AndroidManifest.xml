@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.master.attendanceapp"
+    android:versionCode="4"
+    android:versionName="2.0" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.master.attendanceapp.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dm.zbar.android.scanner.ZBarScannerActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.master.attendanceapp.Signup"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.master.attendanceapp.SignupSuccess"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.master.attendanceapp.Attendance"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.master.attendanceapp.Login"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.master.attendanceapp.CreateSuccess"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.master.attendanceapp.CreateUser"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.master.attendanceapp.SplashScreen"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.master.attendanceapp.AttendanceMenu"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.master.attendanceapp.CheckAttendanceByID"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.master.attendanceapp.CheckAttendanceBySem"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.master.attendanceapp.CheckShortageByID"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.master.attendanceapp.CheckShortageBySem"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.master.attendanceapp.GetAttendance"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.master.attendanceapp.GetShortage"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.master.attendanceapp.ManageClasses"
+            android:label="@string/app_name" >
+        </activity>
+        <activity android:name="com.master.attendanceapp.AboutUs" >
+        </activity>
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="25.4.0" />
+    </application>
+
+</manifest>

@@ -1,0 +1,57 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:2:1-16:12
+	package
+		ADDED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:3:7-44
+		INJECTED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml
+		INJECTED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml
+		INJECTED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml
+		INJECTED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:7:5-64
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:7:22-62
+uses-feature#android.hardware.camera
+ADDED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:8:19-57
+uses-sdk
+ADDED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:9:5-43
+INJECTED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:9:5-43
+INJECTED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:9:5-43
+INJECTED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:9:5-43
+INJECTED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:9:5-43
+	android:targetSdkVersion
+		INJECTED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml
+		ADDED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:9:5-43
+		INJECTED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:9:15-40
+		INJECTED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml
+		INJECTED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml
+application
+ADDED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:11:5-15:19
+	android:label
+		ADDED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:11:18-50
+activity#com.dm.zbar.android.scanner.ZBarScannerActivity
+ADDED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:12:9-14:54
+	android:screenOrientation
+		ADDED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:13:19-56
+	android:label
+		ADDED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:14:19-51
+	android:name
+		ADDED from E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\src\main\AndroidManifest.xml:12:19-53

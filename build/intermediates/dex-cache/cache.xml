@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Development\androidSDK\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Development\Android Apps\AttendanceApp\attendanceApp\build\intermediates\pre-dexed\release\support-annotations-23.4.0_fc910b18e242156a5028649bab726802eab27feb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Master_Aamir\.android\build-cache\724fdcee93d0824a6bfe80f05c624d4b1fcc0f35\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Development\Android Apps\AttendanceApp\attendanceApp\build\intermediates\pre-dexed\release\internal_impl-23.4.0_f7ca624929bb568576c111aecd93bccb63a61911.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\build\intermediates\bundles\default\libs\zbar.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f109185c4ad13ec99defff852ae8b7875525fa4d">
+        <dex dex="E:\Development\Android Apps\AttendanceApp\attendanceApp\build\intermediates\pre-dexed\release\zbar_b326783bc913019e7076bcc1997d7350a49ca170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Development\Android Apps\AttendanceApp\OnBarcode.AndroidBarcode\OnBarcode.AndroidBarcode.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="59dd13e54178477c62a29f94057e09f6d536c109">
+        <dex dex="E:\Development\Android Apps\AttendanceApp\attendanceApp\build\intermediates\pre-dexed\release\OnBarcode.AndroidBarcode_88b03f5bd2b34d5681d950aa99876921ec3d4cf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Master_Aamir\.android\build-cache\724fdcee93d0824a6bfe80f05c624d4b1fcc0f35\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Development\Android Apps\AttendanceApp\attendanceApp\build\intermediates\pre-dexed\release\classes_3ed257ae8310adb7897456e523abcf7287cff35f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Master_Aamir\.android\build-cache\dd8da9fd368db90eb96a6ef06d5a98cf129eafe4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="E:\Development\Android Apps\AttendanceApp\attendanceApp\build\intermediates\pre-dexed\release\classes_a9f6d67781d0e8248b672d274ed096d982b06fd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Development\Android Apps\AttendanceApp\zBarScannerActivity\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9a25bf0c7df4593a148f311ab2cd95ec5e99bb1">
+        <dex dex="E:\Development\Android Apps\AttendanceApp\attendanceApp\build\intermediates\pre-dexed\release\classes_a40b74aaf622ad7a65882a87f7338d87d6e821e0.jar" />
+    </item>
+
+</items>

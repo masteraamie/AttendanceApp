@@ -1,0 +1,2 @@
+include ':zBarScannerActivity', ':OnBarcode.AndroidBarcode'
+include ':attendanceApp'
